@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Taller1 - John Rodriguez Duran</string>
+    <string name="BotonAdivinar">Ingresar</string>
+    <string name="BotonMundo">Ingresar</string>
+    <string name="texview1">Juego de Adivinanza!</string>
+    <string name="texview2">Lista de Paises</string>
+    <string name="VolverAvidinar">Volver</string>
+    <string name="tv_capital">Capital</string>
+    <string name="tv_nombre">Nombre Internacional</string>
+    <string name="tv_siglas">Sigla</string>
+</resources>
